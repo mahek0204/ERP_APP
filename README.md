@@ -1,4 +1,4 @@
-# Laravel ERP System
+# ERP System
 
 This is a role-based ERP system built using Laravel 10. It includes modules for Admin, Team Leader, and Team Member. The system provides features like user management, role & permission handling, and team assignments.
 
