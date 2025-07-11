@@ -4,12 +4,12 @@ This is a role-based ERP system built using Laravel 11. It includes modules for 
 
 ## 🔧 Tech Stack
 
-- Laravel 10
+- Laravel 11
 - Laravel Breeze (Authentication)
 - Spatie Laravel Permission (Roles & Permissions)
 - MySQL
 - Bootstrap / Tailwind CSS
-- JavaScript / AJAX
+- JavaScript 
 
 ## 🎯 Features
 
@@ -19,13 +19,7 @@ This is a role-based ERP system built using Laravel 11. It includes modules for 
 - Team Management
 - Assign Team Leader and Members
 - CRUD for Users and Teams
-- Responsive UI with modals and AJAX interactions
-
-## 🧑‍💻 Roles Overview
-
-- **Admin**: Full access, can manage users, roles, and teams.
-- **Team Leader**: Assigned to a team, can manage team members and view reports.
-- **Team Member**: Can view assigned tasks and update progress.
+- Responsive UI with modals 
 
 ## 📂 Folder Structure Highlights
 
@@ -36,7 +30,7 @@ This is a role-based ERP system built using Laravel 11. It includes modules for 
 ## 🚀 Setup Instructions
 
 ```bash
-git clone https://github.com/your-username/erp-system.git
+git clone https://github.com/mahek0204/erp_app.git
 cd erp-system
 composer install
 cp .env.example .env
